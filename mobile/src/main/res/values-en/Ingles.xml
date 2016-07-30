@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">ProjectWeek3</string>
+    <string name="texto_boton">Enter</string>
+    <string name="texto_bienvenida">Wellcome</string>
+</resources>

@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Semaine project 3</string>
+    <string name="texto_boton">Entrer</string>
+    <string name="texto_bienvenida">Bienvenue</string>
+</resources>
